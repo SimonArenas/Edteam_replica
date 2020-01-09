@@ -7,5 +7,5 @@ Original (https://ed.team)
 
 
 
-Réplica(*)
+Réplica(https://simonarenas.github.io/Edteam_replica/)
 [![https://i.imgur.com/OaRNmIy.png](https://i.imgur.com/OaRNmIy.png "https://i.imgur.com/OaRNmIy.png")](https://i.imgur.com/OaRNmIy.png "https://i.imgur.com/OaRNmIy.png")
